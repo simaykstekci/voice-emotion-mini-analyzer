@@ -1,3 +1,18 @@
+# 🎙️ Voice Emotion Analyzer
+
+### 🚀 Live Demo
+
+👉 **[Try the Voice Emotion Analyzer](https://voice-emotion-mini-analyzer-3tfpatzcoujzhsbgv4j3y4.streamlit.app/)**
+
+A Python-based speech analysis application that uses **Librosa, OpenAI Whisper and Wav2Vec2** to analyze voice characteristics, recognize emotional patterns and transcribe speech.
+
+## 🚀 Project Overview
+
+**Voice Emotion Analyzer** is a speech and audio analysis application developed to explore **audio signal processing, feature extraction, speech recognition, and AI-based emotion recognition**.
+
+The application allows users to upload a voice recording and analyze its acoustic characteristics, estimate vocal tone, recognize emotional patterns using a pretrained AI model, and transcribe speech using OpenAI Whisper.
+
+
 # 🎙️ Voice Emotion Mini Analyzer
 
 A Python-based voice analysis application that processes uploaded audio files and performs basic emotion/tonality analysis using audio signal features and machine learning techniques.
