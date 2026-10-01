@@ -1,8 +1,7 @@
 streamlit
 librosa
 numpy
-pandas
-scikit-learn
+matplotlib
 openai-whisper
 torch
-matplotlib
+transformers
