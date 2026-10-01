@@ -37,12 +37,15 @@ The project was developed as a practical study of **Python, audio signal process
 ## 🛠️ Technologies Used
 
 * **Python**
-* **Streamlit**
-* **Librosa**
-* **NumPy**
-* **Pandas**
-* **Scikit-learn**
-* **OpenAI Whisper**
+* **Streamlit** — Web application interface
+* **Librosa** — Audio processing and feature extraction
+* **NumPy** — Numerical computations
+* **Matplotlib** — Audio visualization
+* **OpenAI Whisper** — Speech transcription
+* **Hugging Face Transformers** — AI-based emotion recognition
+* **Wav2Vec2** — Pretrained speech emotion recognition model
+* **PyTorch** — Deep learning framework
+
 
 ## 🧠 How It Works
 
